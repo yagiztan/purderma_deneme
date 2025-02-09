@@ -2,3 +2,4 @@ flask
 torch
 torchvision
 Pillow
+python-3.12
